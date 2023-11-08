@@ -29184,10 +29184,10 @@ P acf/_camera_offset_psi 0.0
 P acf/_camera_offset_the 0.0
 P acf/_cdi_auto_crs_gps0 0
 P acf/_cdi_auto_crs_gps1 0
-P acf/_cgY 0.0
-P acf/_cgZ 1.279999971
+P acf/_cgY 1.0
+P acf/_cgZ 1.0
 P acf/_cgZ_aft 1.279999971
-P acf/_cgZ_fwd 1.279999971
+P acf/_cgZ_fwd 0.0
 P acf/_chaff_max 0
 P acf/_chute_psi/0 0.0
 P acf/_chute_psi/1 0.0
